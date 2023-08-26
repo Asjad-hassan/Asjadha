@@ -1,5 +1,4 @@
-
-<h2 align="left">Hi 👋! My name is Asjad Hassan and I'm a Front End Developer  from Wah, Pakistan.</h2>
+<h2 align="left">Hi 👋! My name is Asjad Hassan and I'm a Front-End Developer from Wah, Pakistan</h2>
 
 ###
 
@@ -10,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3c9f4a40760693.578c9a4699778.gif"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLq8WrTkhjp5M9tzxUR12fhX2DeX7Eyp9yzhovzXE&s"  />
 
 ###
 
@@ -27,8 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
 
@@ -39,10 +36,5 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-<br clear="both">
-
 
 ###
