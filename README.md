@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h2 align="left">Hi 👋! My name is Asjad Hassan and I'm a Front End Developer  from Wah, Pakistan.</h2>
 
